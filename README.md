@@ -1,5 +1,7 @@
 # Neck beards
 
+[![Join the chat at https://gitter.im/antwonlee/neck_beards](https://badges.gitter.im/antwonlee/neck_beards.svg)](https://gitter.im/antwonlee/neck_beards?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Getting Started
 
 After you have cloned this repo, run this setup script to set up your machine
